@@ -1,0 +1,11 @@
+{
+    "skipJsErrors": true,
+    "debugMode": false,
+    "selectorTimeout": 30000,
+    "port1": 1337,
+    "port2": 1338,
+    "hostname": "localhost",
+    "quarantineMode": true,
+    "pageRequestTimeout": 40000,
+    "retryTestPages": true
+}
